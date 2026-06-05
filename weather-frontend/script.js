@@ -1,4 +1,3 @@
-// REPLACE WITH YOUR DEPLOYED BACKEND URL
 const backendUrl = "https://weather-pj.onrender.com";
 
 
