@@ -1,4 +1,4 @@
-const backendUrl = "https://weather-pj.onrender.com";
+const backendUrl = "https://weather-pj.onrender.com/weather-pj";
 
 
 const searchBox = document.querySelector(".search input");
