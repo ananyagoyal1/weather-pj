@@ -1,7 +1,7 @@
 // REPLACE WITH YOUR DEPLOYED BACKEND URL
 const backendUrl = "https://YOUR-RENDER.URL/weather/";
 
-// Example: const backendUrl = "https://my-weather-api.onrender.com/weather/";
+// Example: const backendUrl = "https://weather-pj.onrender.com";
 
 const searchBox = document.querySelector(".search input");
 const searchBtn = document.querySelector(".search button");
